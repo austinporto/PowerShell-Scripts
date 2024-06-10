@@ -9,6 +9,7 @@ if ($listUsers -eq 'Y') {
 }
 
 $UPN = Read-Host "Enter UPN here"
+
 # Initialize an array to hold all groups
 $allGroups = @()
 
