@@ -1,4 +1,4 @@
-# PowerShell-Scripts
+# Scripts-Powershell & Bat
 All scripts used to simplify tedious tasks.
 
 DisplayGroups.ps1
